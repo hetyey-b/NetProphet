@@ -1,0 +1,24 @@
+{
+  "name": "netprophet",
+  "version": "1.0.0",
+  "description": "NetProphet uses quotes from The Complete Works of Nostradamus to generate brand new prophecies in the style of the famous seer.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hetyey-b/NetProphet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hetyey-b/NetProphet/issues"
+  },
+  "homepage": "https://github.com/hetyey-b/NetProphet#readme"
+}
